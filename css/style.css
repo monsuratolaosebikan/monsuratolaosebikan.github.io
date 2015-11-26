@@ -1,0 +1,78 @@
+
+.jumbotron {    
+    background: url(../img/background.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: white;
+    }
+
+.navbar-transparent {
+    background:transparent;
+    border: none;
+}
+
+.navbar-brand {
+	color: white!important;
+	
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.title {
+	padding-bottom: 30px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.intro {
+	position:absolute;
+	left:20%;
+	right: 20%;
+	top:30%;
+	font-style: bold;
+	text-shadow: 0 4px 7px rgba(0, 0, 0, 0.3);
+}
+
+.gallery {
+	max-width: 100%;
+	max-height: 300px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.gallery img {
+	max-width: 300px;
+	max-height: 300px;
+}
+
+
+
+.portfolio-item {
+	overflow: hidden;
+	margin: auto;
+}
+
+.red {
+	color: red;
+}
+
+.thumbnail {
+	height: 350px;
+	overflow: hidden;
+	border: none;
+}
+
+.social-links ul li {
+	display: inline-block;
+	padding: 10px;
+	color: black;
+}
+
+.social-links {
+	background: #BDCED8;
+	margin: 0;
+	text-align: center;
+	height: 50px;
+}
+
